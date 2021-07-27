@@ -1,6 +1,7 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h1>THIS IS MY DEVOPS PROJECT</h1>
+
+<h2>PAULA IS G ONNA BE A RAPPER </h2>
 <h2>YO THIS SHIT BE POPPING</h2>
-<h2>YOOOO ITS P KAP - IT ISNT PEPSI</h2>
-<h2>P KAP THE RAPPER - 'YOU GET THE NEW P KAP'</h2>
+<h2>Album: PK Adeventures through the WILDER NEST</h2>
+<h3>Song 1 - IT ISNT PEPSI</h2>
+<h3>Song 2- 'YOU GET THE NEW P KAP?'</h2>
