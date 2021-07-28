@@ -5,4 +5,3 @@
 <h3>Song 1 - IT ISNT PEPSI</h2>
 <h3>Song 2- 'YOU GET THE NEW P KAP?'</h2>
 
-    <img src="C:\Users\gevon\Documents\GitHub\hello-world\webapp\img\paula weird.jpg" alt="Girl in a jacket">
